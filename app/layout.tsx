@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "SaaSStart Pro - Complete SaaS Starter Kit",
   description: "Production-ready SaaS starter with authentication, billing, and multi-tenancy",
-    generator: 'v0.dev'
+
 }
 
 export default function RootLayout({
